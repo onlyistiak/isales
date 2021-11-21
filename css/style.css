@@ -22,6 +22,7 @@ font-family: 'Rubik', sans-serif;*/
     font-size: 30px;
     font-family: 'Bebas Neue', cursive;
     padding: 5px 35px;
+	z-index: 1;
     margin-left: -28px;
     border-bottom: 3px dotted #ff0349;
     border-radius: 0px 0px 15px 15px;
